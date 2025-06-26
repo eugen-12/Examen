@@ -35,3 +35,22 @@ body {
     max-width: 400px;
     margin-bottom: 20px;
 }
+.btn {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.hero-image img {
+    width: 220px;
+    border-radius: 12px;
+}
+.latest-work {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.latest-work h2 {
+    margin-bottom: 40px;
+}
