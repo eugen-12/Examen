@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f7f7f7;
+    color: #000;
+}
+.container {
+    background-color: white;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
